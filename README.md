@@ -1,6 +1,6 @@
 Blue Rabbit Engine
 
-This Engine Has New features that includes:
+Blue Rabbit Engine is a Psych Engine V1.0.4 Fork that includes:
 
 -Rework Countdown Intro
 
@@ -20,8 +20,6 @@ Join my Discord Server to help me for making my Engine
 (https://discord.gg/7CawRVm576)
 
 This engine still work in progress i'll release in the future
-
-Blue Rabbit made Psych Engine V1.0.4 Fork
 
 
 Original Psych Engine Description:
