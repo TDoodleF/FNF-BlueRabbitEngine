@@ -20,6 +20,7 @@ Join my Discord Server to help me for making my Engine
 (https://discord.gg/7CawRVm576)
 
 This engine still work in progress i'll release in the future
+but i'll release Blue Rabbit Engine prototype build but still coming soon
 
 
 Original Psych Engine Description:
