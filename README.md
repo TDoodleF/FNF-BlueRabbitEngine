@@ -8,6 +8,17 @@ This Engine Has New features that includes:
 
 -Reskin Sprites and sounds/Musics
 
+-Modchart Support (Coming Soon)
+
+-Stepmania Charts Compatible (Coming Soon)
+
+-Roll Notes (Coming Soon)
+
+-Score Popup Styles (Coming Soon)
+
+Join my Discord Server to help me for making my Engine
+(https://discord.gg/7CawRVm576)
+
 This engine still work in progress i'll release in the future
 
 ![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
