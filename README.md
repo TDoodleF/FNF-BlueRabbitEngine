@@ -1,8 +1,11 @@
 Blue Rabbit Engine
 
-This Engine Has New features
+This Engine Has New features that includes:
+
 -Rework Countdown Intro
+
 -Mine Note
+
 -Reskin Sprites and sounds/Musics
 
 This engine still work in progress i'll release in the future
