@@ -2,7 +2,7 @@ Blue Rabbit Engine
 
 Blue Rabbit Engine is a Psych Engine V1.0.4 Fork that includes:
 
--Rework Countdown Intro (Additional get.png)
+-Countdown Intro (Additional get.png)
 
 -Mine Note
 
