@@ -16,11 +16,18 @@ Blue Rabbit Engine is a Psych Engine V1.0.4 Fork that includes:
 
 -Score Popup Styles (Coming Soon)
 
+-3D Virsuals Support NotITG (Coming Soon)
+
+-3D Stage support? (Maybe coming soon)
+
+-Windows API (Only Window Movement and Color change) (Coming Soon)
+
 Join my Discord Server to help me for making my Engine
 (https://discord.gg/7CawRVm576)
 
 This engine still work in progress i'll release in the future
 but i'll release Blue Rabbit Engine prototype build but still coming soon
+but i'll add credit someone for the features, coding or music/sound
 
 
 Original Psych Engine Description:
