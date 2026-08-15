@@ -2,25 +2,19 @@ Blue Rabbit Engine
 
 Blue Rabbit Engine is a Psych Engine V1.0.4 Fork that includes:
 
--Countdown Intro (Additional get.png)
+-Countdown Intro (Additional get.png) (Added)
 
--Mine Note
+-Mine Note (Added)
 
--Reskin Sprites and sounds/Musics
+-Reskin Sprites and sounds/Musics (Complete)
 
 -Modchart Support (Coming Soon)
 
 -Stepmania Charts Compatible (Coming Soon)
 
--Roll Notes (Coming Soon)
+-Roll Notes (WIP) (Not added yet)
 
--Score Popup Styles (Coming Soon)
-
--3D Virsuals Support NotITG (Coming Soon)
-
--3D Stage support? (Maybe coming soon)
-
--Windows API (Only Window Movement and Color change) (Coming Soon)
+-New Ohter Blue Rabbit Features (Not added yet)
 
 Join my Discord Server to help me for making my Engine
 (https://discord.gg/7CawRVm576)
