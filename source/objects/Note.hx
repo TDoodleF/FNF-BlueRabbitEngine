@@ -45,11 +45,14 @@ class Note extends FlxSprite
 		'Alt Animation',
 		'Hey!',
 		'Hurt Note',
+		'Mine Note',
 		'GF Sing',
 		'No Animation'
 	];
 
 	public var extraData:Map<String, Dynamic> = new Map<String, Dynamic>();
+
+	public var mine:Bool = false;
 
 	public var strumTime:Float = 0;
 	public var noteData:Int = 0;
@@ -218,6 +221,23 @@ class Note extends FlxSprite
 					hitCausesMiss = true;
 					hitsound = 'cancelMenu';
 					hitsoundChartEditor = false;
+				case 'Mine Note':
+					ignoreNote = mustPress;
+					reloadNote('hurtNotes/MINENOTE_assets');
+					rgbShader.enabled = false;
+					// texture = 'MINENOTE_assets';
+					lowPriority = true;
+					if (isSustainNote)
+					{
+						missHealth = 0.16;
+					}
+					else
+					{
+						missHealth = 0.8;
+					}
+					mine = true;
+					hitCausesMiss = true;
+					
 				case 'Alt Animation':
 					animSuffix = '-alt';
 				case 'No Animation':
